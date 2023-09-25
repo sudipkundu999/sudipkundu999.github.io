@@ -1,6 +1,5 @@
 <div align="center">
 
-# Trying out Github Pages
+# [Github Pages](https://sudipkundu999.github.io/)
 
-### Any changes to this repo will publish automatically!
 </div>
